@@ -1,6 +1,6 @@
-# yes
+# vue-notes
 
-> 关于vue的相关学习总结
+> A Vue.js project
 
 ## Build Setup
 

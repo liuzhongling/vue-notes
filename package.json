@@ -1,8 +1,8 @@
 {
-  "name": "yes",
+  "name": "vue-notes",
   "version": "1.0.0",
-  "description": "关于vue的相关学习总结",
-  "author": "liuzhongling",
+  "description": "A Vue.js project",
+  "author": "doudou <liuzhongling13@mails.ucas.ac.cn>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -11,6 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
